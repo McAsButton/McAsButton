@@ -58,11 +58,11 @@ main();
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAsButton&langs_count=10&theme=tokyonight&layout=compact" alt="McAsButton :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats-zeta-two-55.vercel.app/api/top-langs/?username=McAsButton&langs_count=10&theme=tokyonight&layout=compact" alt="McAsButton :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=McAsButton&show_icons=true&theme=synthwave" alt="McAsButton :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats-zeta-two-55.vercel.app/api?username=McAsButton&show_icons=true&theme=synthwave" alt="McAsButton :: Profile Stats" /></p>
 
 
 ---
