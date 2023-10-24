@@ -3,27 +3,22 @@
 
 <h2 align="center">About me</h2>
 
-```JavaScript
-function getBio() {
-  return {
-    "- ⚡ Quick bio:": "A kind of Rocker-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-dogLover hybrid",
-    "- 🔭 I’m currently working on": "Colombia Móvil as a Wholesale Assurance Analyst",
-    "- 🌱 I’m currently learning": "GA bit of everything --- Enhancing my Front End skills",
-    "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
-    "- 📫 How to reach me:": "https://github.com/McAsButton"
-  };
-}
-
-function main() {
-  const bio = getBio();
-  for (const key in bio) {
-    if (bio.hasOwnProperty(key)) {
-      console.log(key + ": " + bio[key]);
+```Python
+def get_bio():
+    return {
+        "- ⚡ Quick bio:": "A kind of Rocker-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-dogLover hybrid",
+        "- 🔭 I’m currently working on": "Colombia Móvil as a Wholesale Assurance Analyst",
+        "- 🌱 I’m currently learning": "GA bit of everything --- Enhancing my Front End skills",
+        "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
+        "- 📫 How to reach me:": "https://github.com/McAsButton"
     }
-  }
-}
 
-main();
+def main():
+    bio = get_bio()
+    for key, value in bio.items():
+        print(key + ": " + value)
+
+main()
 ```
 
 <h2 align="center">You can reach me at</h2>
