@@ -5,7 +5,8 @@
 ```Python
 def get_bio():
     return {
-        "- ⚡ Quick bio:": "A fusion of rock enthusiast, music aficionado, gear enthusiast, amateur musician, avid traveler, food connoisseur, gaming enthusiast, coding expert, programmer, and devoted dog lover.",
+        "- ⚡ Quick bio:": "A fusion of rock enthusiast, music aficionado, gear enthusiast, amateur musician,
+        avid traveler, food connoisseur, gaming enthusiast, coding expert, programmer, and devoted dog lover.",
         "- 🔭 I’m currently working on": "Colombia Móvil as a Wholesale Assurance Analyst",
         "- 🌱 I’m currently learning": "GA bit of everything --- Enhancing my Front End skills",
         "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
@@ -69,9 +70,7 @@ main()
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/McAsButton/McAsButton/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/McAsButton/McAsButton/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
