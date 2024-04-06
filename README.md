@@ -5,8 +5,9 @@
 ```Python
 def get_bio():
     return {
-        "- ⚡ Quick bio:": "A fusion of rock enthusiast, music aficionado, gear enthusiast, amateur musician,"
-              "avid traveler, food connoisseur, gaming enthusiast, coding expert, programmer, and devoted dog lover.",
+        "- ⚡ Quick bio:": """A fusion of rock enthusiast, music aficionado, gear enthusiast,
+            amateur musician, avid traveler, food connoisseur, gaming enthusiast, coding expert,
+            programmer, and devoted dog lover.""",
         "- 🔭 I’m currently working on": "Colombia Móvil as a Wholesale Assurance Analyst",
         "- 🌱 I’m currently learning": "GA bit of everything --- Enhancing my Front End skills",
         "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
@@ -59,14 +60,6 @@ main()
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{McAsButton}/count.svg" alt="McAsButton :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats-zeta-two-55.vercel.app/api/top-langs/?username=McAsButton&langs_count=10&theme=dark&layout=compact" alt="McAsButton :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats-zeta-two-55.vercel.app/api?username=McAsButton&show_icons=true&theme=dark" alt="McAsButton :: Profile Stats" /></p>
 
 ###
 
