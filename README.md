@@ -5,11 +5,10 @@
 ```Python
 def get_bio():
     return {
-        "- ⚡ Quick bio:": """A fusion of rock enthusiast, music aficionado, gear enthusiast,
-            amateur musician, avid traveler, food connoisseur, gaming enthusiast, coding expert,
-            programmer, and devoted dog lover.""",
+        "- ⚡ Quick bio:": """A fusion of rock enthusiast, amateur musician, technology enthusiast,
+            avid traveler, food lover, gaming enthusiast, passionate coder, programmer and devoted dog lover.""",
         "- 🔭 I’m currently working on": "Colombia Móvil as a Wholesale Assurance Analyst",
-        "- 🌱 I’m currently learning": "GA bit of everything --- Enhancing my Front End skills",
+        "- 🌱 I’m currently learning": "A bit of everything --- Enhancing my Front End skills",
         "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
         "- 📫 How to reach me:": "https://github.com/McAsButton"
     }
