@@ -70,7 +70,9 @@ main()
 
 ###
 
-![snake animation](https://github.com/McAsButton/McAsButton/blob/output/github-contribution-grid-snake2.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/McAsButton/McAsButton/output/snake.svg" alt="Snake animation" />
 
 ###
 
