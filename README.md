@@ -74,8 +74,6 @@ main()
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/McAsButton/McAsButton/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/McAsButton/McAsButton/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">Hello World!!</p>
