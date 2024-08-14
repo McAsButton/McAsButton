@@ -20,8 +20,19 @@ def main():
 
 main()
 ```
+###
+
+<h2 align="center">Currently Studying</h2>
+<p align="center">
+  🌱 I'm diving deep into <strong>Java</strong> as part of my ongoing learning journey!
+  <a href="https://skillicons.dev" style="vertical-align: middle;">
+    <img src="https://skillicons.dev/icons?i=java" alt="My Skills" style="height: 24px; margin-left: 8px;">
+  </a>
+</p>
 
 ###
+
+<h2 align="center">Github stats :bar_chart:</h2>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -58,8 +69,6 @@ main()
   </a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{McAsButton}/count.svg" alt="McAsButton :: Visitor's Count" /></p>
@@ -76,6 +85,6 @@ main()
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="center">🌍🌟 Hello World! 🌟🌍</p>
 
 ###
